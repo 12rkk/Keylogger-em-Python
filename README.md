@@ -10,14 +10,13 @@ O uso não autorizado de keyloggers é ilegal e pode resultar em penalidades sev
 pynput 
 schedule 
 
-
+```bash
 🚀 Como Usar
 Clone o repositório:
 bash
 git clone https://github.com/12rkk/Keylogger-em-Python.git
 cd Keylogger-em-Python
 Instale os pacotes necessários com:
-```bash
 pip install -r requirements.txt
 
 Configure o e-mail em keylogger.py:
@@ -27,7 +26,6 @@ password = "sua_senha" < Senha de seguranca da Google.
 receiver_email = "email_destino@gmail.com"
 
 Execute o keylogger:
-bash
 python keylogger.py
 Parar o keylogger: Pressione ESC para interromper a captura de teclas.
 
