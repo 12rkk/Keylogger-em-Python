@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Clone o repositório:
 bash
 git clone https://github.com/12rkk/Keylogger-em-Python.git
-cd keylogger
+cd Keylogger-em-Python
 
 Configure o e-mail em keylogger.py:
 python
