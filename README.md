@@ -16,7 +16,6 @@ pip install -r requirements.txt
 
 🚀 Como Usar
 Clone o repositório:
-
 bash
 git clone https://github.com/seu-usuario/keylogger.git
 cd keylogger
