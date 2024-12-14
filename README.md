@@ -13,7 +13,6 @@ schedule
 ```bash
 🚀 Como Usar
 Clone o repositório:
-bash
 git clone https://github.com/12rkk/Keylogger-em-Python.git
 cd Keylogger-em-Python
 Instale os pacotes necessários com:
